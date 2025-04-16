@@ -27,14 +27,19 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p> Welcome! </p>
-      
-          <br />
+        
           <p> 
 <br /> Welcome to my portfolio! <br />
+</p>
+          <p> 
+          <br />
+          I'm currently still in the process of designing this site.
+      <p> </p>
 
-
-          I'm currently still designing this site but I am excited to showcase my work, skills, and passion for emerging technology. Stay tuned—more coming soon!
+      <p>
+           I am excited to showcase my work, skills, and passion for emerging technology. Stay tuned—more coming soon!
+      
+         </p>
           </p>
       </section>
 
